@@ -5,7 +5,7 @@ I edited this code to generate a password based on the user's requirements. Secu
 
 I learned a lot, and got some practice with functions. I learned how to use isNaN and how to implement for loops.
 
-## Screenshots
+## Screenshot
 ![Screenshot](password-generator-screenshot.png)
 
 ## Link

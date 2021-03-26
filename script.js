@@ -64,7 +64,6 @@ function generatePassword() {
     alert("You need to pick one of these!")
   }
 
-  console.log(possible);
   //want to create a loop for as long as password length
   //for each iteration, select a random character out of the possible characters array and add it to the final password variable
   var final = [];
